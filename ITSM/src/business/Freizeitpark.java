@@ -4,6 +4,7 @@ import ownUtil.PlausiException;
 
 public class Freizeitpark {
 
+	//OMY
 	private String name;
 	private String internBez;
 	private String grund;
